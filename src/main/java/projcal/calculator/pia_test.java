@@ -8,6 +8,6 @@ package projcal.calculator;
  *
  * @author Pia Osis
  */
-public class testing_pia {
+public class pia_test {
     
 }
