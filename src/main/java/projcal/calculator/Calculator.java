@@ -11,6 +11,7 @@ package projcal.calculator;
 public class Calculator {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        //This should be the main class
+        // reference the methods here
     }
 }

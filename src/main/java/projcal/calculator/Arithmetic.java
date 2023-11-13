@@ -10,5 +10,6 @@ package projcal.calculator;
  * @author Aspire
  */
 public class Arithmetic {
-    
+    // Add arithmetic methods
+    // methods such as add, subtract, multiply, division
 }

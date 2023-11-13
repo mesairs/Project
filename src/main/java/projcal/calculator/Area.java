@@ -9,5 +9,5 @@ package projcal.calculator;
  * @author Aspire
  */
 public class Area {
-    
+    //Methods of getting the area
 }
