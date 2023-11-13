@@ -8,6 +8,8 @@ package projcal.calculator;
  *
  * @author Aspire
  */
+//Architecture Validation Date: 25-11-23
+
 public class Calculator {
 
     public static void main(String[] args) {
