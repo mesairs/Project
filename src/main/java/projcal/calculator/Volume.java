@@ -10,7 +10,7 @@ package projcal.calculator;
  * @author Aspire
  */
 public class Volume {
-    //Add methods for volume
+    //To get the volume of a Rectangle
     public void Rectangle(int l, int w, int h){
         int Answer = l * w * h;
         System.out.println("Result: " + Answer);

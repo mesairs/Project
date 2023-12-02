@@ -14,7 +14,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         //This should be the main class
-        // reference the methods here
+        //call the test class and its method
         Test.Testing();
     }
 }

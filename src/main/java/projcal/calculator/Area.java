@@ -9,7 +9,7 @@ package projcal.calculator;
  * @author Aspire
  */
 public class Area {
-    //Methods of getting the area
+    //Methods of getting the area of a Circle
     public void Circle(int r){
         double Answer = Math.PI * Math.pow(r, 2);
         System.out.println("Result: " + Answer);
