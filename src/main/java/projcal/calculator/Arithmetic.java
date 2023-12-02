@@ -11,7 +11,7 @@ package projcal.calculator;
  */
 public class Arithmetic {
     // Add arithmetic methods
-    // methods such as add, subtract, multiply, division
+    // Simple operations such as add, subtract, multiply, division
     public void Addition(int x, int y){
         int Answer = x + y;
          System.out.println("Result: " + Answer);
