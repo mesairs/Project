@@ -82,3 +82,12 @@ public class Test {
     } //End of While loop
   }//End of Testing method
 } // End of Class Test
+
+/**
+ *
+ * @author Aspire
+ */
+public class Test {
+    //This class is to see if the output
+    //hello
+}
