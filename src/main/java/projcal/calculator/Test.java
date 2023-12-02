@@ -87,7 +87,3 @@ public class Test {
  *
  * @author Aspire
  */
-public class Test {
-    //This class is to see if the output
-    //hello
-}
