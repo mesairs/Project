@@ -10,4 +10,8 @@ package projcal.calculator;
  */
 public class Area {
     //Methods of getting the area
+    public void Circle(int r){
+        double Answer = Math.PI * Math.pow(r, 2);
+        System.out.println("Result: " + Answer);
+    }
 }

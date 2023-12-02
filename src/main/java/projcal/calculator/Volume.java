@@ -11,4 +11,8 @@ package projcal.calculator;
  */
 public class Volume {
     //Add methods for volume
+    public void Rectangle(int l, int w, int h){
+        int Answer = l * w * h;
+        System.out.println("Result: " + Answer);
+    }
 }
